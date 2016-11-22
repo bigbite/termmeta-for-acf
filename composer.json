@@ -1,0 +1,9 @@
+{
+    "name": "bigbitecreative/termmeta-for-acf",
+    "description": "For ACF5. Saves Term Meta fields to termmeta table.",
+    "homepage": "https://github.com/bigbitecreative/termmeta-for-acf.git",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
