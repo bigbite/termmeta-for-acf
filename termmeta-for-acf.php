@@ -22,7 +22,6 @@ new class {
 
 		// if we don't have ACF, or it's past v4.5.0, get outta da choppah.
 		if ( ! $hasACF || -1 === ( $verACF <=> '4.5.0' ) ) {
-			dd('wat');
 			return;
 		}
 
